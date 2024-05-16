@@ -1,1 +1,1 @@
-# Database-Connector-Case-Study-
+# Sakila Database Project-
